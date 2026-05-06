@@ -12,6 +12,14 @@
 - [Global Energy Forecasting Competition 2012 - Load Forecasting](https://www.kaggle.com/competitions/global-energy-forecasting-competition-2012-load-forecasting/data)
 - [Solar Power Data](https://www.nlr.gov/grid/solar-power-data)
 
+
+# Manual
+- [OpendDSS](https://opendss.epri.com/IntroductiontoOpenDSS.html)
+- [pandapower](https://pandapower.readthedocs.io/en/stable/)
+- [PyG](https://pytorch-geometric.readthedocs.io/en/latest/index.html)
+- [GpyTorch](https://docs.gpytorch.ai/en/stable/)
+- [Keras](https://keras.io/guides/)
+
 ## Benchmark
 - [IEEE PES Test Feeder](https://cmte.ieee.org/pes-testfeeders/resources/)
 - [IEEE PES Power Grid Benchmarks](https://github.com/orgs/power-grid-lib/repositories)

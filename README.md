@@ -15,6 +15,7 @@
 
 # Manual
 - [OpendDSS](https://opendss.epri.com/IntroductiontoOpenDSS.html)
+- [ANDES](https://docs.andes.app/en/latest/tutorials/index.html)
 - [pandapower](https://pandapower.readthedocs.io/en/stable/)
 - [PyG](https://pytorch-geometric.readthedocs.io/en/latest/index.html)
 - [GpyTorch](https://docs.gpytorch.ai/en/stable/)

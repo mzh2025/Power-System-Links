@@ -24,3 +24,7 @@
 ## Benchmark
 - [IEEE PES Test Feeder](https://cmte.ieee.org/pes-testfeeders/resources/)
 - [IEEE PES Power Grid Benchmarks](https://github.com/orgs/power-grid-lib/repositories)
+
+## Others
+- [IEEE Template](https://template-selector.ieee.org/secure/templateSelector/publicationType)
+- [Course / Linear Algebra - MIT](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/)

@@ -28,3 +28,4 @@
 ## Others
 - [IEEE Template](https://template-selector.ieee.org/secure/templateSelector/publicationType)
 - [Course / Linear Algebra - MIT](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/pages/syllabus/)
+- [Youtube - Stanford ENERGY](https://www.youtube.com/@PrecourtInstitute/videos)

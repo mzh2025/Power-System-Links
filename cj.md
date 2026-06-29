@@ -10,6 +10,7 @@
 | [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)                    | 9.4  |  
 | [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)                                      | 6.7  |          
 |[Measurement](https://www.sciencedirect.com/journal/measurement)|6.1|
+|[IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)|8.7|
 | [Sustainable Energy, Grids and Networks](https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks)              | 5.7  | 
 | [IEEE Transactions on Industrial Cyber-Physical Systems](https://www.ieee-ies.org/pubs/transactions-on-industrial-cyberphysical-systems)                                               |  7.4    |
 |[Journal of Modern Power Systems and Clean Energy](https://www.mpce.info/mpce/home)||

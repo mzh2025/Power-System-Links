@@ -24,6 +24,7 @@
 ## Benchmark
 - [IEEE PES Test Feeder](https://cmte.ieee.org/pes-testfeeders/resources/)
 - [IEEE PES Power Grid Benchmarks](https://github.com/orgs/power-grid-lib/repositories)
+- [123-Node, MATPOWER](https://github.com/Vurgit/case_IEEE123)
 
 ## Others
 - [IEEE Template](https://template-selector.ieee.org/secure/templateSelector/publicationType)
